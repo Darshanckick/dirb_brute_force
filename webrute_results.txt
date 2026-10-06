@@ -1,0 +1,18 @@
+# WebRute results — http://localhost:81 — 2026-10-06 09:19:52
+# status	size	url
+200	2048	http://localhost:81/Five
+200	2048	http://localhost:81/One
+200	2048	http://localhost:81/Seven
+200	2048	http://localhost:81/eight
+200	2048	http://localhost:81/eleven
+200	2048	http://localhost:81/five
+200	2048	http://localhost:81/four
+200	2048	http://localhost:81/nine
+200	2048	http://localhost:81/one
+200	2048	http://localhost:81/seven
+200	2048	http://localhost:81/seventeen
+200	2048	http://localhost:81/six
+200	2048	http://localhost:81/ten
+200	2048	http://localhost:81/three
+200	50	http://localhost:81/try
+200	2048	http://localhost:81/two
